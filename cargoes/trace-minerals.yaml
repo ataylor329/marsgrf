@@ -1,0 +1,17 @@
+abbreviation: TM
+available: false
+classes: 32
+colour: 1
+id: 2
+label: MNRL
+longName: trace minerals
+name: Trace Minerals
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/trace-minerals.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

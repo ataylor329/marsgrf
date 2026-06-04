@@ -1,0 +1,17 @@
+abbreviation: AL
+available: false
+classes: 32
+colour: 49
+id: 0
+label: ALUM
+longName: aluminium
+name: Aluminium
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/aluminium.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

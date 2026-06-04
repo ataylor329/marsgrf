@@ -1,0 +1,17 @@
+abbreviation: MG
+available: false
+classes: 32
+colour: 38
+id: 1
+label: MAGN
+longName: magnesium
+name: Magnesium
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/magnesium.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

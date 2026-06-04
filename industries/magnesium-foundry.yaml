@@ -1,0 +1,20 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- ALUM
+- MAGN
+- MNRL
+cargoProduction:
+- MRST
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - -1
+name: Magnesium Foundry
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary
